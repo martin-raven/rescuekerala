@@ -4,7 +4,7 @@ Website for coordinating rehabilitation of people affected in the 2018 Kerala Fl
 
 # Project Title
 
-One Paragraph of project description goes here
+The Django backend for the website https://keralarescue.in/. Hosted on CloudFlare
 
 # Getting Started
 
